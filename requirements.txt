@@ -5,3 +5,5 @@ seaborn
 matplotlib
 tensorflow-cpu
 sci-kit learn
+pillow
+pyyaml
