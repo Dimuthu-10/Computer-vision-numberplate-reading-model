@@ -1,0 +1,7 @@
+python 3.9.9
+numpy
+pandas
+seaborn
+matplotlib
+tensorflow-cpu
+sci-kit learn
