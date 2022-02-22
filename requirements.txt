@@ -10,3 +10,4 @@ pyyaml
 imutils
 easyocr
 opencv-python
+tensorflow
