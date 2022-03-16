@@ -5,3 +5,9 @@ seaborn
 matplotlib
 tensorflow-cpu
 sci-kit learn
+pillow
+pyyaml
+imutils
+easyocr
+opencv-python
+tensorflow
